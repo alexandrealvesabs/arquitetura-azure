@@ -1,4 +1,4 @@
-# arquitetura-azute
+# arquitetura-azure
 Construindo arquiteturas no Azure
 Foi realizda e demonstração no site da Microsoft Azure onde pudemos verificar sobbre as regiões dos data centers. Foi possíel verificar no mapa a localização dos mesmos e pra qual região possui replicação. 
 Foi demonstrado que alguns dados sensíveis não podem ser replicados para uma região fora do país, pra isso é necessário fazer uma solicitação para replicação dentro do próprio território.
